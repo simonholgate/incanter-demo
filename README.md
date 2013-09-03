@@ -4,7 +4,7 @@ A Clojure library designed to demonstrate Incanter statistics.
 The code is taken from David Edgar Liebke's talk slides at:
 http://data-sorcery.org/2010/02/11/data-sorcery-pt1/
 The code has been updated slightly for Incanter 1.5.3 which is the latest
-release.
+release at the time of writing.
 
 
 ## Usage
